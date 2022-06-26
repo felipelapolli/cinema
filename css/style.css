@@ -1,0 +1,23 @@
+.today {
+  color: darkred;
+}
+
+.tomorrow {
+  color: darkblue;
+}
+
+h2 a {
+  color: seagreen;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  font-size: 20px;
+}
+
+html {
+  font-family: Arial;
+}
